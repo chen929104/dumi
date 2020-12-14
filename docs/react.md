@@ -1,7 +1,3 @@
 # react 源码学习
 
-```tsx
-import React from 'react';
-
-export default () => <>11</>;
-```
+最近项目都是用 react 开发的，想进一步了解 react 的实现原理，就开始阅读 react 的源码，每天抽出一定的时间来阅读，以此文档来记录阅读过程，如果有错误欢迎指出。
